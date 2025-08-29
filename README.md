@@ -38,3 +38,6 @@ I created a Flask web application that visualizes real estate properties on a ma
 
 
 ---
+
+I used the BrightData API to fetch historic price data for Zillow properties. You will need your own BrightData account and API token.
+
