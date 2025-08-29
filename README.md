@@ -2,9 +2,11 @@
 
 # Zillow Property Map & Price History Viewer
 
-I created a **Flask web application** that visualizes real estate properties on a map and provides historical price data for individual properties. It uses **Zillow property data**, Folium for interactive maps, and BrightData API for price history snapshots. 
+I created a Flask web application that visualizes real estate properties on a map and provides historical price data for individual properties. It uses **Zillow property data**, Folium for interactive maps, and BrightData API for price history snapshots. 
 
 <img width="1766" height="863" alt="Image" src="https://github.com/user-attachments/assets/6ed5c778-30a0-49cf-b3c2-894f524c7ca0" />
+
+<img width="1836" height="864" alt="Image" src="https://github.com/user-attachments/assets/59dd3c47-a4b1-480c-bbcb-24054d5ad7b6" />
 
 <img width="1833" height="820" alt="Image" src="https://github.com/user-attachments/assets/f32fbcdb-aa4b-47c2-b323-647dfe58894c" />
 
