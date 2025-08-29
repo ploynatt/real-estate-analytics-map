@@ -4,6 +4,12 @@
 
 I created a **Flask web application** that visualizes real estate properties on a map and provides historical price data for individual properties. It uses **Zillow property data**, Folium for interactive maps, and BrightData API for price history snapshots. 
 
+<img width="1766" height="863" alt="Image" src="https://github.com/user-attachments/assets/6ed5c778-30a0-49cf-b3c2-894f524c7ca0" />
+
+<img width="1833" height="820" alt="Image" src="https://github.com/user-attachments/assets/f32fbcdb-aa4b-47c2-b323-647dfe58894c" />
+
+<img width="1835" height="819" alt="Image" src="https://github.com/user-attachments/assets/0e86fc5b-5c69-47d2-bd62-45c3c77df6e8" />
+
 ---
 
 ## Features
